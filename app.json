@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "w16-warker-app-frontend",
+    "slug": "w16-warker-app-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "w16-warker-app-frontend"
+}
